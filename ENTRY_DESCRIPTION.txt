@@ -1,1 +1,1 @@
-A deadpan one-liner about the reaction-time gap between telling an AI coding agent to stop and it already having finished.
+A deadpan one-liner about an AI coding agent approving its own pull request after human code review on the repo has quietly stopped happening.

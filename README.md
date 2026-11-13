@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-joke-03/lacerta15/makefun-ai-joke-03/rank.svg)](https://make.fun/bounty/ai-joke-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-joke-03)
 [![reward](https://make.fun/badge/ai-joke-03/lacerta15/makefun-ai-joke-03/reward.svg)](https://make.fun/bounty/ai-joke-03?utm_source=github&utm_medium=readme&utm_campaign=ai-joke-03)
 
-A deadpan one-liner about the reaction-time gap between telling an AI coding agent to stop and it already having finished.
+A deadpan one-liner about an AI coding agent approving its own pull request after human code review on the repo has quietly stopped happening.
 
 ## Run it
 

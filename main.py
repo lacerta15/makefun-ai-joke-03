@@ -8,8 +8,9 @@ no timestamps. Running this script twice produces byte-identical output.
 from pathlib import Path
 
 JOKE = (
-    'I typed "wait, no" and hit enter half a second after the agent had '
-    "already finished rewriting the file."
+    "My coding agent approved its own pull request. The review said, "
+    "'LGTM — left one nit for a human.' There hasn't been a human "
+    "reviewer on this repo in three sprints."
 )
 
 MIN_LENGTH = 1
